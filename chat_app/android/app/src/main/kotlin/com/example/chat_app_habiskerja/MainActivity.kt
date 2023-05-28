@@ -1,0 +1,6 @@
+package com.ikapurwanti.chat
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
